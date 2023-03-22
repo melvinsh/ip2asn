@@ -1,4 +1,4 @@
-# IP2ASN
+# ip2asn
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/melvinsh/asn.svg)](https://pkg.go.dev/github.com/melvinsh/asn)
 
