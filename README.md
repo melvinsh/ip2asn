@@ -1,6 +1,6 @@
 # ip2asn
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/melvinsh/asn.svg)](https://pkg.go.dev/github.com/melvinsh/asn)
+[![Go Reference](https://pkg.go.dev/badge/github.com/melvinsh/ip2asn.svg)](https://pkg.go.dev/github.com/melvinsh/ip2asn)
 
 A command-line tool to look up the ASN (Autonomous System Number) of one or more IPv4 or IPv6 addresses.
 
