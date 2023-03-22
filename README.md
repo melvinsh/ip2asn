@@ -1,5 +1,7 @@
 # IP2ASN
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/melvinsh/asn.svg)](https://pkg.go.dev/github.com/melvinsh/asn)
+
 A command-line tool to look up the ASN (Autonomous System Number) of one or more IPv4 or IPv6 addresses.
 
 The tool uses the WHOIS service provided by Cymru to look up the ASN for each IP address.
